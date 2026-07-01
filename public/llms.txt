@@ -1,0 +1,108 @@
+# בית החיים — Generative Engine Optimization Map
+
+> A unique pet rental service that allows customers to book animals for home visits. The business brings joy and companionship by delivering pets directly to people's homes, catering to those who love animals but may not own one. The service likely offers a variety of animals and focuses on creating warm, memorable experiences for families and individuals.
+
+---
+
+## Pages
+
+### בית
+https://-9ffb8fae.zappy5.app
+מחפשים השכרת בתים שמאפשרים חיות? אנחנו מביאים את השמחה אליכם! השכירו חיות מחמד לביקור ביתי חם ומרגש, מושלם למשפחות ויחידים שרוצים אהבה בלי התחייבות. חוויה בלתי נשכחת מחכה לכם — הזמינו עכשיו!
+
+### איך זה עובד
+https://-9ffb8fae.zappy5.app/how-it-works
+איך לשכור חיות מחמד בקלות? התהליך פשוט ומרגש: בוחרים חיית מחמד, קובעים מועד, ואנחנו מביאים אותה עד לפתח הבית שלכם! השכרת דירות ידידותית לחיות מעולם לא הייתה כיפית ככה. גלו איך זה עובד ותתחילו להתכונן לחיבוקים!
+
+### גלריית חוויות
+https://-9ffb8fae.zappy5.app/experience-gallery
+צפו בגלריית חוויות קסומות של השכרת חיות מחמד! לקוחות מאושרים, רגעי שמחה וחיבוקים חמים שמראים איך השכרת בתים שמאפשרים חיות הופכת כל יום לחגיגה. קבלו השראה ורוצו להזמין חוויה משלכם עוד היום!
+
+### שאלות נפוצות
+https://-9ffb8fae.zappy5.app/faq
+יש לכם שאלות על השכרת חיות מחמד? אנחנו עונים על הכל! מאיך מתאימים חיה לבית, ועד טיפים להשכרת דירות ידידותית לחיות — קבלו תשובות ברורות ומעשיות שיעשו לכם סדר. התחילו לקרוא ולבנות את החוויה המושלמת!
+
+### צור קשר
+https://-9ffb8fae.zappy5.app/contact
+מוכנים להזמין ביקור חיות מחמד מרגש? צרו קשר עוד היום! בין אם אתם מחפשים השכרת בתים שמאפשרים חיות או סתם רוצים חיבוק חם, אנחנו פה לכל שאלה. מלאו פרטים, ונחזור אליכם במהירות עם חיוך וחיה — דברו איתנו עכשיו!
+
+### Products
+https://-9ffb8fae.zappy5.app/products
+המוצרים שלנו - בית החיים
+
+### Cart
+https://-9ffb8fae.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-9ffb8fae.zappy5.app/checkout
+תשלום
+
+### Login
+https://-9ffb8fae.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-9ffb8fae.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-9ffb8fae.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-9ffb8fae.zappy5.app/product/:slug
+פרטי המוצר - בית החיים
+
+### Category
+https://-9ffb8fae.zappy5.app/category/:slug
+מוצרים - בית החיים
+
+### תודה - בית החיים
+https://-9ffb8fae.zappy5.app/thank-you
+בית החיים - תודה - בית החיים
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9ffb8fae.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9ffb8fae.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9ffb8fae.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בית החיים
+A unique pet rental service that allows customers to book animals for home visits. The business brings joy and companionship by delivering pets directly to people's homes, catering to those who love animals but may not own one. The service likely offers a variety of animals and focuses on creating warm, memorable experiences for families and individuals.
+
+## Target Audience
+- משפחות צעירות עם ילדים
+- מבוגרים בגיל הזהב החיים לבד
+- מקצוענים עירוניים ללא חיות מחמד
+
+## Industry
+Pet Rental Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-9ffb8fae.zappy5.app/sitemap.xml
+- Robots: https://-9ffb8fae.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-9ffb8fae.zappy5.app/llms-full.txt
+- Products (JSON): https://-9ffb8fae.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-9ffb8fae.zappy5.app/product-feed.xml
